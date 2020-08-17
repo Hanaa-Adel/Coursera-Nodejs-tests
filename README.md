@@ -1,2 +1,2 @@
-# Coursers-Nodejs-tets
+# Coursera-Nodejs-tests
 Test for Nodejs Course
